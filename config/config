@@ -103,7 +103,7 @@ type = IMAP
 # IMAP Configuration
 imap_hostname = mail
 imap_port = 993
-imap_ssl = False
+imap_ssl = True
 
 # PAM group user should be member of
 #pam_group_membership =
